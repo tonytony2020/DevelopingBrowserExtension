@@ -25,12 +25,3 @@
 * [应用商店上架](distribute/ying-yong-shang-dian-shang-jia.md)
 * [客服支持](distribute/ke-fu-zhi-chi.md)
 * [宣传推广](distribute/xuan-chuan-tui-guang.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
