@@ -4,24 +4,24 @@
 
 ## 概述 <a href="#overview" id="overview"></a>
 
-* [历史架构](overview/li-shi-jia-gou.md)
-* [典型案例](overview/dian-xing-an-li.md)
-* [第一个插件 Hello World](overview/di-yi-ge-cha-jian-hello-world.md)
+* [历史架构](overview/history.md)
+* [典型案例](overview/useCases.md)
+* [第一个插件 Hello World](overview/helloWorld.md)
 
 ## 设计 <a href="#design" id="design"></a>
 
-* [目标定位](design/mu-biao-ding-wei.md)
-* [商业模式](design/shang-ye-mo-shi.md)
+* [目标定位](design/goals.md)
+* [商业模式](design/bizModel.md)
 
 ## 开发 <a href="#develop" id="develop"></a>
 
-* [技术选型](develop/ji-shu-xuan-xing.md)
-* [跨浏览器内核](develop/kua-liu-lan-qi-nei-he.md)
-* [整合框架](develop/zheng-he-kuang-jia.md)
+* [技术选型](develop/techStack.md)
+* [跨浏览器内核](develop/crossEngines.md)
+* [整合框架](develop/migrateFrameworks.md)
 
 ## 分发 <a href="#distribute" id="distribute"></a>
 
-* [制作素材](distribute/zhi-zuo-su-cai.md)
-* [应用商店上架](distribute/ying-yong-shang-dian-shang-jia.md)
-* [客服支持](distribute/ke-fu-zhi-chi.md)
-* [宣传推广](distribute/xuan-chuan-tui-guang.md)
+* [制作素材](distribute/designMaterials.md)
+* [应用商店上架](distribute/uploadToStore.md)
+* [客服支持](distribute/support.md)
+* [宣传推广](distribute/marketing.md)

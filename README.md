@@ -14,29 +14,32 @@ description: 又名 Developing Browser Extension From Getting Started to Giving 
 
 ### 概览
 
-{% content-ref url="overview/li-shi-jia-gou.md" %}
-[li-shi-jia-gou.md](overview/li-shi-jia-gou.md)
+{% content-ref url="overview/history.md" %}
+[history.md](overview/history.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/dian-xing-an-li.md" %}
-[dian-xing-an-li.md](overview/dian-xing-an-li.md)
+{% content-ref url="overview/useCases.md" %}
+[useCases.md](overview/useCases.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/di-yi-ge-cha-jian-hello-world.md" %}
-[di-yi-ge-cha-jian-hello-world.md](overview/di-yi-ge-cha-jian-hello-world.md)
+{% content-ref url="overview/helloWorld.md" %}
+[helloWorld.md](overview/helloWorld.md)
 {% endcontent-ref %}
 
 ### 设计
 
-{% content-ref url="design/mu-biao-ding-wei.md" %}
-[mu-biao-ding-wei.md](design/mu-biao-ding-wei.md)
+{% content-ref url="design/goals.md" %}
+[goals.md](design/goals.md)
 {% endcontent-ref %}
 
-{% content-ref url="design/shang-ye-mo-shi.md" %}
-[shang-ye-mo-shi.md](design/shang-ye-mo-shi.md)
+{% content-ref url="design/bizModel.md" %}
+[bizModel.md](design/bizModel.md)
 {% endcontent-ref %}
 
 ### 开发
 
+TBD
+
 ### 分发
 
+TBD
