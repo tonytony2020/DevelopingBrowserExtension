@@ -18,6 +18,7 @@
 * [技术选型](develop/techStack.md)
 * [跨浏览器内核](develop/crossEngines.md)
 * [整合框架](develop/migrateFrameworks.md)
+* [调试](develop/debug.md)
 
 ## 分发 <a href="#distribute" id="distribute"></a>
 
