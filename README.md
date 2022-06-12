@@ -48,6 +48,10 @@ description: 又名 Developing Browser Extension From Getting Started to Giving 
 [migrateFrameworks.md](develop/migrateFrameworks.md)
 {% endcontent-ref %}
 
+{% content-ref url="develop/debug.md" %}
+[debug.md](develop/debug.md)
+{% endcontent-ref %}
+
 ### 分发
 
 {% content-ref url="distribute/designMaterials.md" %}
